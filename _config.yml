@@ -1,0 +1,28 @@
+name: New Luminance
+favicon: null
+layout_spectrum: 0.2170055501628667
+typography_spectrum: 0.3685652567073703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7718484627548605
+  lightness: 0.8496874598786235
+  saturation: 0.5214318775106221
+  rhythmicContrast: 0.20559888891875744
+purpose: []

@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[New Luminance]]></title>
         <description><![CDATA[New Luminance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.newluminance.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 12:34:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 13:08:29 GMT</lastBuildDate>
+        <atom:link href="http://www.newluminance.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Daughter of Two Moms Comes Out Against Gay Marriage]]></title>
+            <description><![CDATA[<article><h1>Daughter of Two Moms Comes Out Against Gay Marriage</h1><p>Heather Barwick, who has come out against gay marriage despite having a lesbian mom. A South Carolina woman's new essay about being raised by her lesbian mom contains a surprising revelation: she opposes marriage equality. My mom raised me with her same-sex partner back in the '80s and '90s," writes</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cd0bd309e3386d776143a83bef177ceea91f771.jpg"></article>]]></description>
+            <link>https://www.yahoo.com/parenting/daughter-of-two-moms-comes-out-against-gay-113987192687.html</link>
+            <guid isPermaLink="false">7499cf19-5906-4e00-8113-b653bca74410</guid>
+            <pubDate>Wed, 27 Jan 2016 13:07:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test</p>]]></description>
-            <link>undefined7515debb-a668-437f-9ced-be25c021e791/index.html</link>
+            <link>http://www.newluminance.com/7515debb-a668-437f-9ced-be25c021e791/index.html</link>
             <guid isPermaLink="false">7515debb-a668-437f-9ced-be25c021e791</guid>
             <pubDate>Wed, 27 Jan 2016 12:34:35 GMT</pubDate>
         </item>
